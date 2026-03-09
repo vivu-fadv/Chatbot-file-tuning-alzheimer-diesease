@@ -4,10 +4,6 @@
 
 1. Open terminal in project root
 
-```powershell
-cd D:\Work\Augmented_AlzheimerMRI_Classification\RAG-Alzheimer-s_Disease-main
-```
-
 2. Install dependencies
 
 ```powershell
